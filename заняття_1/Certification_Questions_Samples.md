@@ -3,14 +3,14 @@
 ## Which AWS Cloud benefit refers to the ability to quickly adapt and respond to changing business requirements?
 
 - [ ] High Availability
-- [ ] Elasticity
-- [ ] Agility
+- [*] Elasticity (гнучність / адаптованість)
+- [ ] Agility (гнучкість в швидкості отримання ресурсів)
 - [ ] Global Reach
 
 ## How does agility in the AWS Cloud foster innovation?
 
 - [ ] Agility implies slower response times
-- [ ] Agility allows quick experimentation, innovation, and adaptation
+- [*] Agility allows quick experimentation, innovation, and adaptation
 - [ ] Agility is irrelevant in the cloud
 - [ ] Agility applies only to large enterprises
 
@@ -18,7 +18,7 @@
 
 - [ ] It introduces only a single point of failure
 - [ ] It limits scalability options
-- [ ] It reduces the risk of service downtime and ensures continuous availability
+- [*] It reduces the risk of service downtime and ensures continuous availability
 - [ ] It is irrelevant in cloud environments
 
 ## How does AWS Cloud's high availability architecture contribute to disaster recovery?
