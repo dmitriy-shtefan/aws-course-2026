@@ -43,6 +43,13 @@
 - [Домашнє завдання](заняття_3/Домашнє_завдання.md)
 - [Встановлення AWS CLI на Windows](заняття_3/Встановлення_AWS_CLI_на_Windows.md)
 
+### Заняття 4. Amazon EC2 та мережа
+
+Матеріали:
+
+- [Пояснення VPC, public і private subnets, route tables, NAT Gateway та Internet Gateway](заняття_4/VPC_Subnets_Route_Tables_Gateways.md)
+- [Домашнє завдання](заняття_4/Домашнє_завдання.md)
+
 ## Як працювати з матеріалами
 
 1. Опрацюйте презентацію до заняття.
